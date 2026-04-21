@@ -1,4 +1,5 @@
-<h1 align="center">Hornymory</h1> ###
+<h1 align="center">hornymory advanced developer</h1>
+<h2 align="center">Programming stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
