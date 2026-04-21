@@ -49,7 +49,4 @@
   <img src="https://streak-stats.demolab.com?user=hornymory&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hornymory/hornymory/output/github-snake-dark.svg" alt="snake animation" />
 
-</p>
