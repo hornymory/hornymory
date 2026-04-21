@@ -51,5 +51,5 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hornymory/hornymory/output/github-snake-dark.svg" alt="snake animation" />
-<
+
 </p>
