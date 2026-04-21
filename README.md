@@ -24,20 +24,6 @@
   Editors: <b>CLion</b> , <b>IntelliJ IDEA </b>, <b>Visual Studio</b>, <b>Neovim <3</b>
 </p>
 
-<h3 align="center">stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,rust" height="52" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postgres,mysql" height="52" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim" height="52" />
-</p>
-
 <h3 align="center">github</h3>
 
 <p align="center">
